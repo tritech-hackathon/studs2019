@@ -68,4 +68,7 @@ For Windows
 # Method 2: Type "mode" in the command promt
 ```
 
-You should be set! Now hack away! 
+Did you edit `solve.py` with the correct serial device name? You should be set, hack away!
+```bash
+python3 solve.py
+```
