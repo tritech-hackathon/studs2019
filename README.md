@@ -23,7 +23,7 @@ If you don't already have python3 and pip3 installed you need to install it.
 
 # Installing python3 will automatically install pip3
 brew install python3
-sudo pip3 install -r requirements
+sudo pip3 install -r requirements.txt
 ```
 
 
@@ -33,7 +33,7 @@ sudo pip3 install -r requirements
 sudo apt-get install python3
 sudo apt-get install python3-pip
 
-sudo pip3 install -r requirements
+sudo pip3 install -r requirements.txt
 ```
 
 
@@ -46,7 +46,7 @@ Make sure to check the following boxes:
 
 Install required libraries:
 ``` bash
-pip3 -r install requirements
+pip3 -r install requirements.txt
 ```
 
 
