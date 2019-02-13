@@ -6,10 +6,10 @@ SSID: 3TGuest
 Pass: SkrivStora3SS
 
 
-This repository contains two files, `utils.py` containing a couple of necessary functions and `solve.py` which is the starting point for the challenge.
+This repository contains two files, `utils.py` containing a couple of necessary functions and `solve.py` which you should use as the starting point for the challenge.
 
 ## Getting started
-To get started you need to download this repository and have python3 and pip3 installed on your machine. By using the api:s from `utils.py`, your current score will be published on the screen during the event provided that you have an internet connection.
+To get started you need to download this repository and have python3 and pip3 installed on your machine. Using the functions from `utils.py`, your current score will be published on the screen during the event provided that you have an internet connection.
 
 
 ### Installing python3 and pip3
