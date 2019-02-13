@@ -50,7 +50,7 @@ pip3 -r install requirements.txt
 ```
 
 
-### Find the correct serial port
+### Find the correct serial port and start hacking!
 Next, connect your device (Arduino) and determine the name of the connected serial device. Edit the `solve.py` script accordingly (e.g. "COM15" for Windows, "/dev/ttyACM0" for Linux, /dev/tty.usbserial-A9UTPFVR for macOS.)
 
 For Linux and macOS:
