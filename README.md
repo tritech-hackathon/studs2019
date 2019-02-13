@@ -46,7 +46,7 @@ Make sure to check the following boxes:
 
 Install required libraries:
 ``` bash
-pip3 -r install requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ### Find the correct serial port and start hacking!
