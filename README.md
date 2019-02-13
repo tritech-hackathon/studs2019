@@ -27,7 +27,7 @@ sudo pip3 install -r requirements.txt
 ```
 
 
-### Linux
+### Linux installation steps
 ``` bash
 # Or similar depending on your systems package manager
 sudo apt-get install python3
@@ -37,7 +37,7 @@ sudo pip3 install -r requirements.txt
 ```
 
 
-### Windows
+### Windows installation steps
 To to install python3 on Windows go to: <https://www.python.org/> and download python 3.X.X under the `Download` tab.
 This will automatically install pip3.
 
